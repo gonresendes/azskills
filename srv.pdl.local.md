@@ -1,5 +1,5 @@
 # INSTALAÇÃO E CONFIGURAÇÃO DO EASY-RSA
-## COMANDOS PARA SRV.PDL.LOCAL
+## SRV.PDL.LOCAL
 Os seguintes comandos estão em sequência para a instalação e configuração do easy-rsa no servidor pdl:
 
 1. Instala o easy-rsa;
